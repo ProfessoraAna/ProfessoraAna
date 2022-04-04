@@ -1,4 +1,6 @@
-- Olá sou a @ProfessoraAna
+-SOBRE MIM
+- 
+-   Olá sou a @ProfessoraAna
 - Trabalho em uma escola do Campo
 - Leciono Geografia e Pensamento Computacional
 
