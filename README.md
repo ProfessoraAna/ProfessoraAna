@@ -2,7 +2,7 @@
 - 
 -   Olá sou a @ProfessoraAna
 - Trabalho em uma escola do Campo
-- Leciono Geografia e Pensamento Computacional
+- Leciono Geografia, Pensamento Computacional e Edutech
 
 
 <!---
