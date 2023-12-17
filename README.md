@@ -1,11 +1,11 @@
 -SOBRE MIM
 - 
--   Olá sou a @ProfessoraAna
-- Trabalho em uma escola do Campo
+- Olá sou a Ana Carla
+- Trabalho em duas escola uma do Campo e outra Civico Militar
 - Leciono Geografia, Pensamento Computacional e Edutech
+- Atualmente estou estudando Licenciatura da Computação
 
 
 <!---
-ProfessoraAna/ProfessoraAna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Instagran: @anacarla_pacheco
 --->
