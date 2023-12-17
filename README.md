@@ -6,6 +6,9 @@
 - Atualmente estou estudando Licenciatura da Computação
 
 
-<!---
+<---
 Instagran: @anacarla_pacheco
 --->
+
+Curso 
+- mais de 20 cursos  da platafroma Alura na área da programação.
